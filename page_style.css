@@ -1,0 +1,32 @@
+body {
+    margin: 50;
+    background: linear-gradient(to top, #33ccff 0%, #ffffff 100%);
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+.nav{
+    text-align: center;
+    overflow: hidden;
+}
+.nav a {
+    float: center;
+    color: #000000;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+.nav a:hover {
+    background-color: #9fe6fc;
+    color: black;
+}
+
+.nav a.active {
+    background-color: #0407aa;
+    color: white;
+}
+.photo {
+    margin: 50;
+    text-align: left;
+}
