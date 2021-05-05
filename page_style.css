@@ -26,7 +26,18 @@ body {
     background-color: #0407aa;
     color: white;
 }
-.photo {
+.aboutme {
+    float: left;
     margin: 50;
-    text-align: left;
+    text-align: justify;
+    font-size: 50;
+}
+.aboutme a{
+    position: absolute;
+    margin: 50;
+    text-align: justify;
+    font-size: 40;
+}
+t1{
+    font-size: 50;
 }
