@@ -9,7 +9,6 @@ body {
     overflow: hidden;
 }
 .nav a {
-    float: center;
     color: #000000;
     text-align: center;
     padding: 18px 20px;
@@ -35,6 +34,8 @@ body {
 .aboutme a{
     position: absolute;
     margin: 50;
+    width: 600px;
+    height: 400px;
     text-align: justify;
     font-size: 40;
 }
