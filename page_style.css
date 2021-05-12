@@ -1,6 +1,7 @@
 body {
     margin: 50;
     background: linear-gradient(to top, #33ccff 0%, #ffffff 100%);
+    background-repeat: no-repeat;
     font-family: "Times New Roman", Times, serif;
     text-align: center;
 }
