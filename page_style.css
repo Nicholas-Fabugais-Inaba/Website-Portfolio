@@ -43,13 +43,13 @@ body {
 t1{
     font-size: 50;
 }
-.school {
+.links {
     float: left;
     margin: 50;
     text-align: left;
     font-size: 20;
 }
-.school a{
+.links a{
     position: absolute;
     text-align: justify;
     font-size: 20;
